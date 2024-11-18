@@ -1,0 +1,316 @@
+{
+	"headless": "n",
+	"POESESSID": "d8a02174421cc9c6cce1c67ed49d1a1c",
+	"league": "Archnemesis",
+	"currency": "chaos, exa",
+	"currency_all": "chaos, exa, divine, vaal, gcp, chisel, alch",
+	"_comment": "",
+	"items":
+	[
+	{
+			"code": "326nRm0c5",
+			"description": "abyss jewel, hp + 2 stat",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/326nRm0c5"
+	},
+	{
+			"code": "mbRm5BMS6",
+			"description": "Energy From Within, 6%= ES",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/mbRm5BMS6"
+	},
+	{
+			"code": "rL43XMzHQ",
+			"description": "Jewel, %life + 3 stat",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/rL43XMzHQ"
+	},
+	{
+			"code": "4XzQejZt9",
+			"description": "Facebreaker, 798+",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/4XzQejZt9"
+	},
+	{
+			"code": "3XJOYBJh5",
+			"description": "Stygian Vise, 130+ total res, for reroll prefix",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/3XJOYBJh5"
+	},
+	{
+			"code": "YoY5dXXIY",
+			"description": "Mark of the Elder, good roll",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/YoY5dXXIY"
+	},
+	
+	
+	{
+			"code": "oROj4ksl",
+			"description": "Any 6-link",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/oROj4ksl"
+	},
+	{
+			"code": "K5gOJdDU5",
+			"description": "Abyssus Ezomyte Burgonet, <=41% increased Physical Damage taken, 120%+ to Melee Critical Strike Multiplier",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/K5gOJdDU5"
+	},
+	{
+			"code": "lbYD8DQFV",
+			"description": "Clear Mind, 59+ magic damage",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/lbYD8DQFV"
+	},
+	{
+			"code": "Z5z8R2RIQ",
+			"description": "Goldwyrm Nubuck Boots, 20%= Quantity",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/Z5z8R2RIQ"
+	},
+	{
+			"code": "29pLqYDhk",
+			"description": "Le Heup of All, 25+ dmg, 25+ attr, 25+ res",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/29pLqYDhk"
+	},
+	{
+			"code": "6EBoyv2UG",
+			"description": "Self-Flagellation, 20= damage",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/6EBoyv2UG"
+	},
+	{
+			"code": "aJXOG2KHe",
+			"description": "Cyclopean Coil Leather Belt, 15%+ icr attr",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/aJXOG2KHe"
+	},
+	{
+			"code": "XDz2XOBhP",
+			"description": "Sin Trek Stealth Boots, 150= to maximum Energy Shield",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/XDz2XOBhP"
+	},
+	{
+			"code": "pb7evO3T0",
+			"description": "Fortress Covenant 44+ minion dmg",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/pb7evO3T0"
+	},
+	{
+			"code": "OOB8y5VuE",
+			"description": "Fluid Motion Viridian Jewel, 24= dex",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/OOB8y5VuE"
+	},
+	{
+			"code": "kboQ633s5",
+			"description": "Fractal Thoughts Vaal Mask, 40= crit",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/kboQ633s5"
+	},
+	{
+			"code": "qGKQy43cg",
+			"description": "Garukhan's Flight Stealth Boots, 39+ dex",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/qGKQy43cg"
+	},
+	{
+			"code": "08k5nqwFg",
+			"description": "Hyrri's Demise Sharktooth Arrow Quiver, 29+ all stat, 9+ attack speed",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/08k5nqwFg"
+	},
+	{
+			"code": "85RlbnMTV",
+			"description": "Efficient Training, 24= str",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/85RlbnMTV"
+	},
+	{
+			"code": "JyKkmzvHl",
+			"description": "Rain of Splinters Crimson Jewel, -3X% reduce",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/JyKkmzvHl"
+	},
+	{
+			"code": "9njDjYRSK",
+			"description": "Large Cluster Jewel, 8=, 75+, minion damage",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/9njDjYRSK"
+	},
+	{
+			"code": "LnwDQ07Tn",
+			"description": "Abandoned Wealth, 3ex",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/LnwDQ07Tn"
+	},
+	{
+			"code": "B7LDgbXh8",
+			"description": "synt ring % inc dex",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/B7LDgbXh8"
+	},
+	{
+			"code": "yEpYa6WUR",
+			"description": "cow trial 16+ 5+",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/yEpYa6WUR"
+	},
+	{
+			"code": "qL3qql3ug",
+			"description": "eldar guard",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/qL3qql3ug"
+	},
+	{
+			"code": "vPKb3rZCE",
+			"description": "belt 13+ inc int",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/vPKb3rZCE"
+	},
+	{
+			"code": "Z56ngEbhQ",
+			"description": "shaper gloves +1 frenzy",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/Z56ngEbhQ"
+	},
+	{
+			"code": "4rmay4YC9",
+			"description": "Hand of Wisdom, 12int=, 30 elem=",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/4rmay4YC9"
+	},
+	{
+			"code": "ljgn5BphV",
+			"description": "Aegis Aurora, 380+ inc, 20= elem dmg",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/ljgn5BphV"
+	},
+	{
+			"code": "njRedp2H0",
+			"description": "Aegis Aurora, 95+ base stat",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/njRedp2H0"
+	},
+	{
+			"code": "zBWqQ9mh4",
+			"description": "Doriany 95+ base stat, 180+ inc",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/zBWqQ9mh4"
+	},
+	{
+			"code": "3r2daY5I5",
+			"description": "split pers, 5 int, 5 en",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/3r2daY5I5"
+	},
+	{
+			"code": "E644oaLC5",
+			"description": "fract ring res",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/E644oaLC5"
+	},
+	{
+			"code": "zB4w4QLi4",
+			"description": "Skin of the Loyal, 3B-2R-1G",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/zB4w4QLi4"
+	},
+	{
+			"code": "RybXgE4H7",
+			"description": "Skin of the Lord, 3B-2R-1G",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/RybXgE4H7"
+	},
+	{
+			"code": "mJ4Lz0JH6",
+			"description": "Skin of the Lord, 2B-3R-1G",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/mJ4Lz0JH6"
+	},
+	{
+			"code": "mj8QzpLH6",
+			"description": "Large Cluster Jewel, 8P=, 75 lvl+",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/mj8QzpLH6"
+	},
+	{
+			"code": "Jd0M5gbUl",
+			"description": "Medium Cluster Jewel, 6P=, 50-67 lvl",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/Jd0M5gbUl"
+	},
+	{
+			"code": "08DOo8bFg",
+			"description": "Divergent CWDT",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/08DOo8bFg"
+	},
+	{
+			"code": "YoyjVZbIY",
+			"description": "Thread of Hope Crimson Jewel",
+			"disable": "y",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/YoyjVZbIY"
+	},
+	{
+			"code": "29zPMp0ck",
+			"description": "belt flask",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/29zPMp0ck"
+	},
+	{
+			"code": "GmoZp59fb",
+			"description": "dust 19%",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/GmoZp59fb"
+	},
+	{
+			"code": "zoV0Go2i4",
+			"description": "Omniscience 24+",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/zoV0Go2i4"
+	},
+	{
+			"code": "3e2V57dH5",
+			"description": "Heartbound Loop, corr",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/3e2V57dH5"
+	},
+	{
+			"code": "VgpmkXltp",
+			"description": "Stygian Vise, flask",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/VgpmkXltp"
+	},
+	
+	
+	
+	{
+			"code": "3e56ardH5",
+			"description": "ward base gloves",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/3e56ardH5"
+	},
+	{
+			"code": "yEevwBghR",
+			"description": "ward base helm",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/yEevwBghR"
+	},
+	{
+			"code": "mJ40boBC6",
+			"description": "ward base boots",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/mJ40boBC6"
+	},
+	{
+			"code": "qJ7M4b3Cg",
+			"description": "belt flask fract",
+			"disable": "n",
+			"_comment": "https://www.pathofexile.com/trade/search/Archnemesis/qJ7M4b3Cg"
+	}
+	]
+}

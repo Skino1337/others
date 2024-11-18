@@ -1,0 +1,4 @@
+[09:54:56:019] bk.betcity start
+[09:54:56:029] [BK.BETCITY] (getEventUrl) Info, event name original: Чоински Я. - Хорански Ф.
+[09:54:56:029] [BK.BETCITY] (getEventUrl) Info, event name parts: ['чоински', 'хорански']
+[09:55:33:158] [BK.BETCITY] (getEventUrl) Info, no search result for words: ['чоински', 'хорански']
